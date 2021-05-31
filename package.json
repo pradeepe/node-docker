@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pradeepe/node-docker/issues"
   },
-  "homepage": "https://github.com/pradeepe/node-docker#readme"
+  "homepage": "https://github.com/pradeepe/node-docker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
