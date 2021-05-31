@@ -1,0 +1,19 @@
+{
+  "name": "node-docker",
+  "version": "1.0.0",
+  "description": "My first Node Docker project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pradeepe/node-docker.git"
+  },
+  "author": "Pradeep Edirisinghe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pradeepe/node-docker/issues"
+  },
+  "homepage": "https://github.com/pradeepe/node-docker#readme"
+}
