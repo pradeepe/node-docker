@@ -1,4 +1,4 @@
-FROM node:16.11.1-bullseye-slim
+FROM node:gallium-bullseye-slim
 WORKDIR /app
 COPY package.json .
 #RUN npm install
