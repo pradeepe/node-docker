@@ -1,4 +1,4 @@
-FROM node:16.11.1-bullseye-slim
+FROM node:16.20.2-bullseye-slim
 WORKDIR /app
 COPY package.json .
 #RUN npm install
